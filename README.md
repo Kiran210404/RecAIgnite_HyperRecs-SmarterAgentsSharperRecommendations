@@ -1,7 +1,6 @@
 # RecAIgnite: HyperRecs – Smarter Agents, Sharper Recommendations
 
 ![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
-![License: MIT](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative)
 ![Repo size](https://img.shields.io/github/repo-size/Kiran210404/RecAIgnite_HyperRecs-SmarterAgentsSharperRecommendations?logo=github)
 ![Last commit](https://img.shields.io/github/last-commit/Kiran210404/RecAIgnite_HyperRecs-SmarterAgentsSharperRecommendations?logo=git)
 
